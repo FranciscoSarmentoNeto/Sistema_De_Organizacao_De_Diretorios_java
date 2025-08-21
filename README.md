@@ -1,18 +1,22 @@
-## Getting Started
+# 🗂 Projeto de Organização de Diretórios em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém um pequeno projeto em **Java** que manipula e organiza diretórios.  
+O objetivo é explorar conceitos de manipulação de arquivos e diretórios utilizando a API **java.io** e **java.nio**.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📚 Objetivo
+- Praticar a criação e manipulação de diretórios e arquivos em Java.  
+- Compreender como navegar no sistema de arquivos usando código.  
+- Servir como base para estudos e projetos futuros envolvendo persistência de dados.  
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🛠 Tecnologias Utilizadas
+- **Linguagem:** Java (*java version "21.0.2" 2024-01-16 LTS*)  
+- **IDE/Editor:** Visual Studio Code  
+- **Bibliotecas:**  
+  - `java.io.File`  
+  - `java.nio.file.*`  
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
